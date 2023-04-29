@@ -1,1 +1,11 @@
-"["旅行", "美食", "程式語言"]"
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
