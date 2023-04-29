@@ -1,4 +1,7 @@
 {
   "tags": ["123"],
-  "post": "asd"
+  "post": "asd",
+  "profile": {
+    "name": "typicode"
+  }
 }
